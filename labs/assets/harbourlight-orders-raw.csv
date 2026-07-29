@@ -1,0 +1,37 @@
+Order_ID,Order_Date,Region,Channel,Product,Category,Units,Unit_Price,Unit_Cost,Discount_Rate,Returned,Customer_Note
+HL-1001,2026-01-05,North,Store,Trail Pack,Bags,8,129,75,0.05,No,Loved the product
+HL-1002,2026-01-07,South,Online,City Tote,Bags,12,89,48,0.10,No,Delivery was fast
+HL-1003,2026-01-10,Central,Partner,Weekender,Bags,5,159,92,0.00,Yes,Requested return
+HL-1004,2026-01-13,"North ",Online,Bottle,Accessories,20,29,12,0.15,No,
+HL-1005,2026-01-16,South,"Store ",Travel Pouch,Accessories,14,49,22,0.05,No,Wrong colour
+HL-1006,2026-01-19,Central,Store,Laptop Sleeve,Accessories,9,69,32,0.00,Yes,Damaged zipper
+HL-1007,2026-01-22,north,Partner,City Tote,Bags,18,89,48,0.20,No,Package delayed
+HL-1008,2026-01-26,SOUTH,Online,Trail Pack,Bags,7,129,75,0.10,No,
+HL-1009,2026-01-29,"Central ",Store,Bottle,Accessories,24,29,12,0.15,Yes,Fit issue
+HL-1010,2026-02-03,North,Online,Weekender,Bags,6,159,92,0.05,No,Delivery was fast
+HL-1011,2026-02-06,South,Partner,Travel Pouch,Accessories,16,49,22,0.00,No,
+HL-1012,2026-02-09,Central,Store,Trail Pack,Bags,11,129,75,0.10,No,Loved the product
+HL-1013,2026-02-12,North,Store,Laptop Sleeve,Accessories,13,69,32,0.15,Yes,Requested refund
+HL-1014,2026-02-15,South,online,City Tote,Bags,19,89,48,0.05,No,Package delayed
+HL-1015,2026-02-18,Central,PARTNER,Bottle,Accessories,26,29,12,0.20,No,
+HL-1016,2026-02-21,"North ",Online,Travel Pouch,Accessories,15,49,22,0.10,No,Quality was good
+HL-1017,2026-02-24,SOUTH,Store,Trail Pack,Bags,10,129,75,0.00,Yes,Damaged strap
+HL-1018,2026-02-27,Central,Partner,Weekender,Bags,30,159,92,0.05,No,Delivery was late
+HL-1019,2026-03-02,North,Store,City Tote,Bags,17,89,48,0.10,No,Wrong colour
+HL-1020,2026-03-05,South,Online,Bottle,Accessories,22,29,12,0.00,No,
+HL-1021,2026-03-08,Central,Partner,Laptop Sleeve,Accessories,12,69,32,0.15,No,Delivery was fast
+HL-1022,2026-03-11,north,Online,Trail Pack,Bags,9,129,75,0.05,Yes,Requested return
+HL-1023,2026-03-14,South,"Store ",Travel Pouch,Accessories,20,49,22,0.10,No,Fit issue
+HL-1024,2026-03-17,"Central ",Store,Weekender,Bags,8,159,92,0.20,No,Package delayed
+HL-1025,2026-03-20,North,Partner,Bottle,Accessories,25,29,12,0.00,No,
+HL-1026,2026-03-23,SOUTH,Online,City Tote,Bags,14,89,48,0.15,Yes,Damaged handle
+HL-1027,2026-03-27,Central,Store,Laptop Sleeve,Accessories,18,69,32,0.05,No,Loved the product
+HL-1028,2026-04-01,North,Online,Travel Pouch,Accessories,21,49,22,0.10,No,Delivery was late
+HL-1029,2026-04-04,South,Partner,Trail Pack,Bags,16,129,75,0.00,No,
+HL-1030,2026-04-08,Central,Store,City Tote,Bags,23,89,48,0.15,No,Quality was good
+HL-1031,2026-04-12,"North ",Store,Bottle,Accessories,27,29,12,0.05,Yes,Requested refund
+HL-1032,2026-04-16,South,online,Trail Pack,Bags,28,129,75,0.10,No,Delivery was fast
+HL-1033,2026-04-20,Central,PARTNER,Weekender,Bags,7,159,92,0.20,No,Wrong colour
+HL-1034,2026-04-23,north,Online,Laptop Sleeve,Accessories,15,69,32,0.00,No,
+HL-1035,2026-04-26,SOUTH,"Store ",Travel Pouch,Accessories,19,49,22,0.15,No,Package delayed
+HL-1036,2026-04-28,"Central ",Partner,Bottle,Accessories,30,29,12,0.05,No,Fit issue
